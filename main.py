@@ -8,7 +8,6 @@ mixer.music.load("Teachers_Day__Flute__Bgm__Theme.mp3")
 mixer.music.play(-1)
 root = Tk()
 root.state('zoom')
-# root.call(__command=karuna_sir())
 my_label = Label(root)
 my_label.pack()
 
